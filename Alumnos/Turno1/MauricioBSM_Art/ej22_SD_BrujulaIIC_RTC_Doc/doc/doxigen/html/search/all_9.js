@@ -1,0 +1,27 @@
+var searchData=
+[
+  ['i2c_5fsoftware',['I2C_SOFTWARE',['../sapi__i2c_8h.html#a368d221a740cf8be9f03e79db21d29cb',1,'sapi_i2c.h']]],
+  ['i2c_5fsoftware_5fscl_5fdir',['I2C_SOFTWARE_SCL_DIR',['../sapi__i2c_8h.html#ace21cf20567620d08910534e9c36713b',1,'sapi_i2c.h']]],
+  ['i2c_5fsoftware_5fscl_5fin',['I2C_SOFTWARE_SCL_IN',['../sapi__i2c_8h.html#ab4fc5e1914d078aa4e7f4bf14bc37b03',1,'sapi_i2c.h']]],
+  ['i2c_5fsoftware_5fscl_5fout',['I2C_SOFTWARE_SCL_OUT',['../sapi__i2c_8h.html#a5be02abd7a28696513d73bd37fa7163e',1,'sapi_i2c.h']]],
+  ['i2c_5fsoftware_5fsda_5fdir',['I2C_SOFTWARE_SDA_DIR',['../sapi__i2c_8h.html#ade72dcefa74480ff1666124793c06d27',1,'sapi_i2c.h']]],
+  ['i2c_5fsoftware_5fsda_5fin',['I2C_SOFTWARE_SDA_IN',['../sapi__i2c_8h.html#a986200b422efa3acec0b40f027647f73',1,'sapi_i2c.h']]],
+  ['i2c_5fsoftware_5fsda_5fout',['I2C_SOFTWARE_SDA_OUT',['../sapi__i2c_8h.html#add156c79682301f18cc47e85d5f674bf',1,'sapi_i2c.h']]],
+  ['i2cconfig',['i2cConfig',['../sapi__i2c_8h.html#acebde93d2267eee89fe88e0556d05b99',1,'i2cConfig(i2cMap_t i2cNumber, uint32_t clockRateHz):&#160;sapi_i2c.c'],['../sapi__i2c_8c.html#acebde93d2267eee89fe88e0556d05b99',1,'i2cConfig(i2cMap_t i2cNumber, uint32_t clockRateHz):&#160;sapi_i2c.c']]],
+  ['i2cmap_5ft',['i2cMap_t',['../sapi__peripheral__map_8h.html#ae79c0bb81822e2067c720b09ee6d9c21',1,'sapi_peripheral_map.h']]],
+  ['i2cread',['i2cRead',['../sapi__i2c_8h.html#a3e39fecd5cb6e18829ace29e429b773a',1,'i2cRead(i2cMap_t i2cNumber, uint8_t i2cSlaveAddress, uint8_t *dataToReadBuffer, uint16_t dataToReadBufferSize, bool_t sendWriteStop, uint8_t *receiveDataBuffer, uint16_t receiveDataBufferSize, bool_t sendReadStop):&#160;sapi_i2c.c'],['../sapi__i2c_8c.html#a3e39fecd5cb6e18829ace29e429b773a',1,'i2cRead(i2cMap_t i2cNumber, uint8_t i2cSlaveAddress, uint8_t *dataToReadBuffer, uint16_t dataToReadBufferSize, bool_t sendWriteStop, uint8_t *receiveDataBuffer, uint16_t receiveDataBufferSize, bool_t sendReadStop):&#160;sapi_i2c.c']]],
+  ['i2cwrite',['i2cWrite',['../sapi__i2c_8h.html#a9fefed35b1190517e6c7738cdf1d9cd3',1,'i2cWrite(i2cMap_t i2cNumber, uint8_t i2cSlaveAddress, uint8_t *transmitDataBuffer, uint16_t transmitDataBufferSize, bool_t sendWriteStop):&#160;sapi_i2c.c'],['../sapi__i2c_8c.html#a9fefed35b1190517e6c7738cdf1d9cd3',1,'i2cWrite(i2cMap_t i2cNumber, uint8_t i2cSlaveAddress, uint8_t *transmitDataBuffer, uint16_t transmitDataBufferSize, bool_t sendWriteStop):&#160;sapi_i2c.c']]],
+  ['id',['id',['../struct_f_a_t_f_s.html#a417095d7c20d56d417dc0998e0dd5a5c',1,'FATFS::id()'],['../struct___f_d_i_d.html#a363d7bdab408418b911ac1502bc22ea6',1,'_FDID::id()']]],
+  ['inaccurate_5fto_5fms',['INACCURATE_TO_MS',['../sapi__delay_8h.html#aa0b912f416e680f4c7142feed458bf51',1,'sapi_delay.h']]],
+  ['inaccurate_5fto_5fus_5fx10',['INACCURATE_TO_US_x10',['../sapi__delay_8h.html#a9f3caa4bfcdb82af5fd46faa53d331fb',1,'sapi_delay.h']]],
+  ['init_5fnambuf',['INIT_NAMBUF',['../ff_8c.html#a9880dce2d33fe7708f982b5f80a31142',1,'ff.c']]],
+  ['int',['INT',['../integer_8h.html#a392e62da233ed3e2f7c3fd4f487a3896',1,'integer.h']]],
+  ['integer_2eh',['integer.h',['../integer_8h.html',1,'']]],
+  ['irqn',['IRQn',['../structtimer_static_data__t.html#a6dec5a01f77ba49caa7e8f21079e988c',1,'timerStaticData_t']]],
+  ['isdbcs1',['IsDBCS1',['../ff_8c.html#a58d63a832a117f179e41c7373d013dd6',1,'ff.c']]],
+  ['isdbcs2',['IsDBCS2',['../ff_8c.html#a66a3fa880af6078ef181656c1d7d8ef1',1,'ff.c']]],
+  ['isdigit',['IsDigit',['../ff_8c.html#a65dee564f69f2ec27f25b67a348018b9',1,'ff.c']]],
+  ['islower',['IsLower',['../ff_8c.html#a4a9d454724926bd51a3aed589a97f08b',1,'ff.c']]],
+  ['isupper',['IsUpper',['../ff_8c.html#a89b2514198590e139dd064c5d534f302',1,'ff.c']]],
+  ['itoa',['itoa',['../sd__spi_8c.html#a22e98a8cf2e2c79d738830b387cace28',1,'sd_spi.c']]]
+];

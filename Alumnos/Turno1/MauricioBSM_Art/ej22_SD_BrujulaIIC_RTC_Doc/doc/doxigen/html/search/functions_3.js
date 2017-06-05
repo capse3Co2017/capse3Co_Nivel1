@@ -1,0 +1,8 @@
+var searchData=
+[
+  ['cargardatoshmc',['cargarDatosHMC',['../sd__spi_8c.html#ae9d0be2f6e7107a1917481e17240ef09',1,'sd_spi.c']]],
+  ['cargardatosrtc',['cargarDatosRTC',['../sd__spi_8c.html#ad33fe5a3e41101f07de6ea4ce6210ddb',1,'sd_spi.c']]],
+  ['circularbufferconfig',['circularBufferConfig',['../sapi__circular_buffer_8h.html#a19a04a256ca1d7b6ce99e0e7fe427bd1',1,'circularBufferConfig(circularBuffer_t *buffer, uint8_t *bufferMemory, uint8_t bufferMemorySize, callBackFuncPtr_t emptyBufferCallback, callBackFuncPtr_t fullBufferCalback):&#160;sapi_circularBuffer.c'],['../sapi__circular_buffer_8c.html#a19a04a256ca1d7b6ce99e0e7fe427bd1',1,'circularBufferConfig(circularBuffer_t *buffer, uint8_t *bufferMemory, uint8_t bufferMemorySize, callBackFuncPtr_t emptyBufferCallback, callBackFuncPtr_t fullBufferCalback):&#160;sapi_circularBuffer.c']]],
+  ['circularbufferread',['circularBufferRead',['../sapi__circular_buffer_8h.html#af889e508a17b0ffa3470af56aabb3a16',1,'circularBufferRead(circularBuffer_t *buffer, uint8_t *dataByte):&#160;sapi_circularBuffer.c'],['../sapi__circular_buffer_8c.html#af889e508a17b0ffa3470af56aabb3a16',1,'circularBufferRead(circularBuffer_t *buffer, uint8_t *dataByte):&#160;sapi_circularBuffer.c']]],
+  ['circularbufferwrite',['circularBufferWrite',['../sapi__circular_buffer_8h.html#ac56a88be397830c777963ea13ed4a97b',1,'circularBufferWrite(circularBuffer_t *buffer, uint8_t *dataByte):&#160;sapi_circularBuffer.c'],['../sapi__circular_buffer_8c.html#ac56a88be397830c777963ea13ed4a97b',1,'circularBufferWrite(circularBuffer_t *buffer, uint8_t *dataByte):&#160;sapi_circularBuffer.c']]]
+];
