@@ -31,8 +31,8 @@
  *
  */
 
-#ifndef _SD_SPI_H_
-#define _SD_SPI_H_
+#ifndef _DATALOGGER_H_
+#define _DATALOGGER_H_
 
 /*==================[inclusions]=============================================*/
 
@@ -61,4 +61,4 @@ int main(void);
 #endif
 
 /*==================[end of file]============================================*/
-#endif /* #ifndef _SD_SPI_H_ */
+#endif /* #ifndef _DATALOGGER_H_ */

@@ -1,0 +1,20 @@
+Datos del archivo: Datos.txt
+10/06/2017  01:00:01 - x= 94    y= -415  z= -142  Angulo= 282  Apunta= Oeste    
+10/06/2017  01:00:03 - x= 96    y= -410  z= -150  Angulo= 283  Apunta= Oeste    
+10/06/2017  01:00:05 - x= 97    y= -415  z= -140  Angulo= 283  Apunta= Oeste    
+10/06/2017  01:00:07 - x= 94    y= -414  z= -147  Angulo= 282  Apunta= Oeste    
+10/06/2017  01:00:09 - x= 95    y= -409  z= -144  Angulo= 283  Apunta= Oeste    
+10/06/2017  01:00:11 - x= 99    y= -398  z= -153  Angulo= 283  Apunta= Oeste    
+10/06/2017  01:00:13 - x= 97    y= -408  z= -144  Angulo= 283  Apunta= Oeste    
+10/06/2017  01:00:15 - x= 95    y= -401  z= -153  Angulo= 283  Apunta= Oeste    
+10/06/2017  01:00:17 - x= 97    y= -409  z= -148  Angulo= 283  Apunta= Oeste    
+10/06/2017  01:00:19 - x= 100   y= -408  z= -153  Angulo= 283  Apunta= Oeste    
+10/06/2017  01:00:21 - x= 94    y= -411  z= -149  Angulo= 282  Apunta= Oeste    
+10/06/2017  01:00:23 - x= 96    y= -407  z= -144  Angulo= 283  Apunta= Oeste    
+10/06/2017  01:00:25 - x= 95    y= -416  z= -142  Angulo= 282  Apunta= Oeste    
+10/06/2017  01:00:27 - x= 97    y= -406  z= -142  Angulo= 283  Apunta= Oeste    
+10/06/2017  01:00:01 - x= 96    y= -405  z= -144  Angulo= 283  Apunta= Oeste    
+10/06/2017  01:00:03 - x= 97    y= -410  z= -142  Angulo= 283  Apunta= Oeste    
+10/06/2017  01:00:05 - x= 99    y= -403  z= -151  Angulo= 283  Apunta= Oeste    
+10/06/2017  01:00:07 - x= 97    y= -405  z= -143  Angulo= 283  Apunta= Oeste    
+10/06/2017  01:00:09 - x= 98    y= -405  z= -153  Angulo= 283  Apunta= Oeste    
