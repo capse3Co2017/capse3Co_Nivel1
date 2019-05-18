@@ -1,0 +1,7 @@
+var searchData=
+[
+  ['i2cconfig',['i2cConfig',['../sapi__i2c_8h.html#acebde93d2267eee89fe88e0556d05b99',1,'i2cConfig(i2cMap_t i2cNumber, uint32_t clockRateHz):&#160;sapi_i2c.c'],['../sapi__i2c_8c.html#acebde93d2267eee89fe88e0556d05b99',1,'i2cConfig(i2cMap_t i2cNumber, uint32_t clockRateHz):&#160;sapi_i2c.c']]],
+  ['i2cread',['i2cRead',['../sapi__i2c_8h.html#a3e39fecd5cb6e18829ace29e429b773a',1,'i2cRead(i2cMap_t i2cNumber, uint8_t i2cSlaveAddress, uint8_t *dataToReadBuffer, uint16_t dataToReadBufferSize, bool_t sendWriteStop, uint8_t *receiveDataBuffer, uint16_t receiveDataBufferSize, bool_t sendReadStop):&#160;sapi_i2c.c'],['../sapi__i2c_8c.html#a3e39fecd5cb6e18829ace29e429b773a',1,'i2cRead(i2cMap_t i2cNumber, uint8_t i2cSlaveAddress, uint8_t *dataToReadBuffer, uint16_t dataToReadBufferSize, bool_t sendWriteStop, uint8_t *receiveDataBuffer, uint16_t receiveDataBufferSize, bool_t sendReadStop):&#160;sapi_i2c.c']]],
+  ['i2cwrite',['i2cWrite',['../sapi__i2c_8h.html#a9fefed35b1190517e6c7738cdf1d9cd3',1,'i2cWrite(i2cMap_t i2cNumber, uint8_t i2cSlaveAddress, uint8_t *transmitDataBuffer, uint16_t transmitDataBufferSize, bool_t sendWriteStop):&#160;sapi_i2c.c'],['../sapi__i2c_8c.html#a9fefed35b1190517e6c7738cdf1d9cd3',1,'i2cWrite(i2cMap_t i2cNumber, uint8_t i2cSlaveAddress, uint8_t *transmitDataBuffer, uint16_t transmitDataBufferSize, bool_t sendWriteStop):&#160;sapi_i2c.c']]],
+  ['itoa',['itoa',['../sd__spi_8c.html#a22e98a8cf2e2c79d738830b387cace28',1,'sd_spi.c']]]
+];

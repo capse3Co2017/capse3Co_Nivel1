@@ -1,0 +1,19 @@
+var searchData=
+[
+  ['servo0',['SERVO0',['../sapi__peripheral__map_8h.html#a5f9ca7a8a474eece2829c028013e4213a76b261798eb36bc62b8dd4dc72424990',1,'sapi_peripheral_map.h']]],
+  ['servo1',['SERVO1',['../sapi__peripheral__map_8h.html#a5f9ca7a8a474eece2829c028013e4213aa6e257efc757f0f46794c25bb4eb58bd',1,'sapi_peripheral_map.h']]],
+  ['servo2',['SERVO2',['../sapi__peripheral__map_8h.html#a5f9ca7a8a474eece2829c028013e4213ad75ed2b0c4a8ddb48e78ce5fc89116fa',1,'sapi_peripheral_map.h']]],
+  ['servo3',['SERVO3',['../sapi__peripheral__map_8h.html#a5f9ca7a8a474eece2829c028013e4213a71ce50dcaf0ac24392ab0b73a1279e77',1,'sapi_peripheral_map.h']]],
+  ['servo4',['SERVO4',['../sapi__peripheral__map_8h.html#a5f9ca7a8a474eece2829c028013e4213a56d6e3c760848759943f422bcb779da4',1,'sapi_peripheral_map.h']]],
+  ['servo5',['SERVO5',['../sapi__peripheral__map_8h.html#a5f9ca7a8a474eece2829c028013e4213a78fe545bb62df09bfafd43ba1b36520b',1,'sapi_peripheral_map.h']]],
+  ['servo6',['SERVO6',['../sapi__peripheral__map_8h.html#a5f9ca7a8a474eece2829c028013e4213ac41925ab95f1a2d4d91b63ec690924ea',1,'sapi_peripheral_map.h']]],
+  ['servo7',['SERVO7',['../sapi__peripheral__map_8h.html#a5f9ca7a8a474eece2829c028013e4213adfa66c3c76afcaca58f980ee191081d8',1,'sapi_peripheral_map.h']]],
+  ['servo8',['SERVO8',['../sapi__peripheral__map_8h.html#a5f9ca7a8a474eece2829c028013e4213a549c88fda994303357abb159f2a4bc4e',1,'sapi_peripheral_map.h']]],
+  ['servo_5fdisable',['SERVO_DISABLE',['../sapi__servo_8h.html#a33051a55349ee8fec9f6acebe48cad17a2f14ced24a52d504c727936ac5ae7b64',1,'sapi_servo.h']]],
+  ['servo_5fdisable_5foutput',['SERVO_DISABLE_OUTPUT',['../sapi__servo_8h.html#a33051a55349ee8fec9f6acebe48cad17a9879b14c6d9fd9b569026551ccc3400b',1,'sapi_servo.h']]],
+  ['servo_5fenable',['SERVO_ENABLE',['../sapi__servo_8h.html#a33051a55349ee8fec9f6acebe48cad17ac054fcb63f45cac2c6a9a49b928964ab',1,'sapi_servo.h']]],
+  ['servo_5fenable_5foutput',['SERVO_ENABLE_OUTPUT',['../sapi__servo_8h.html#a33051a55349ee8fec9f6acebe48cad17a5bce51ee9ecf9c0dafbbb7b55d781103',1,'sapi_servo.h']]],
+  ['spi0',['SPI0',['../sapi__peripheral__map_8h.html#ac73cffcbe9c90a2e4f6f93a780ebc04ba7add1e0588a075d9385b10fcbb2010f4',1,'sapi_peripheral_map.h']]],
+  ['spi_5fmiso',['SPI_MISO',['../sapi__peripheral__map_8h.html#a42ff5ea7696a12e997c3d28c8af3394aa4db1f29a4b23def8195011b407d61189',1,'sapi_peripheral_map.h']]],
+  ['spi_5fmosi',['SPI_MOSI',['../sapi__peripheral__map_8h.html#a42ff5ea7696a12e997c3d28c8af3394aadd37bcc343ce0aead026109fc50b2cac',1,'sapi_peripheral_map.h']]]
+];

@@ -1,0 +1,27 @@
+var searchData=
+[
+  ['rate',['rate',['../struct_h_m_c5883_l__config__t.html#a3519ea198db1bf6ada0913f98b983ef6',1,'HMC5883L_config_t']]],
+  ['rcvr_5fspi_5fm',['rcvr_spi_m',['../mmc_8c.html#a317ab656a06a309fbb136df11cb83535',1,'mmc.c']]],
+  ['rddem',['RDDEM',['../ff_8c.html#a24b6bc427cbd37fbe76e087f7f188abb',1,'ff.c']]],
+  ['readindex',['readIndex',['../structcircular_buffer__t.html#acc293592f742a1febce9cfffd7efd0c0',1,'circularBuffer_t']]],
+  ['real32_5ft',['real32_t',['../sapi__datatypes_8h.html#a3367af45445891b41c9671c4962c37f1',1,'sapi_datatypes.h']]],
+  ['res_5ferror',['RES_ERROR',['../diskio_8h.html#aacdfef1dad6565f65c26d12fe0ea4b2ba78011f5557679ec178fb40bd21e89840',1,'diskio.h']]],
+  ['res_5fnotrdy',['RES_NOTRDY',['../diskio_8h.html#aacdfef1dad6565f65c26d12fe0ea4b2baad64c27c69eb1ff39ae67c5f77bb2b1d',1,'diskio.h']]],
+  ['res_5fok',['RES_OK',['../diskio_8h.html#aacdfef1dad6565f65c26d12fe0ea4b2ba2ea4b6ef3fffc17dd1d38ab5c2837737',1,'diskio.h']]],
+  ['res_5fparerr',['RES_PARERR',['../diskio_8h.html#aacdfef1dad6565f65c26d12fe0ea4b2baf4dcc07fd46310b5495fa8025c89a9f3',1,'diskio.h']]],
+  ['res_5fwrprt',['RES_WRPRT',['../diskio_8h.html#aacdfef1dad6565f65c26d12fe0ea4b2ba442a6d4393dc404827067bc4e981b322',1,'diskio.h']]],
+  ['rgu',['RGU',['../structtimer_static_data__t.html#a675122d6a046e88e57bf6a802582067c',1,'timerStaticData_t']]],
+  ['rs232_5frxd',['RS232_RXD',['../sapi__peripheral__map_8h.html#a42ff5ea7696a12e997c3d28c8af3394aac2389d6b880daf339256830163f8e4ca',1,'sapi_peripheral_map.h']]],
+  ['rs232_5ftxd',['RS232_TXD',['../sapi__peripheral__map_8h.html#a42ff5ea7696a12e997c3d28c8af3394aa43b70ebc292bf8f48bddb95d1e1004aa',1,'sapi_peripheral_map.h']]],
+  ['rtc',['RTC',['../struct_r_t_c.html',1,'']]],
+  ['rtc_2ec',['rtc.c',['../rtc_8c.html',1,'']]],
+  ['rtc_2eh',['rtc.h',['../rtc_8h.html',1,'']]],
+  ['rtc_5fgettime',['rtc_gettime',['../rtc_8h.html#a3a29f097e88c979c07b616997bbf3cb7',1,'rtc_gettime(RTC *):&#160;rtc.c'],['../rtc_8c.html#af35fe9ef0e7a9014bc7009a3e820a06e',1,'rtc_gettime(RTC *rtc):&#160;rtc.c']]],
+  ['rtc_5finitialize',['rtc_initialize',['../rtc_8h.html#a12a730ad387eebdb50bbcbd081f0c7f2',1,'rtc_initialize(void):&#160;rtc.c'],['../rtc_8c.html#a12a730ad387eebdb50bbcbd081f0c7f2',1,'rtc_initialize(void):&#160;rtc.c']]],
+  ['rtc_5fsettime',['rtc_settime',['../rtc_8h.html#afdd6c61cc5bcdcfcd2479845716f3f55',1,'rtc_settime(const RTC *):&#160;rtc.c'],['../rtc_8c.html#aa30ad45cdb4d6df14bc903f6b38ec312',1,'rtc_settime(const RTC *rtc):&#160;rtc.c']]],
+  ['rtc_5ft',['rtc_t',['../structrtc__t.html',1,'']]],
+  ['rtcconfig',['rtcConfig',['../sapi__rtc_8h.html#aae022b681586fc7c52ac5e22fb21e77f',1,'rtcConfig(rtc_t *rtc):&#160;sapi_rtc.c'],['../sapi__rtc_8c.html#aae022b681586fc7c52ac5e22fb21e77f',1,'rtcConfig(rtc_t *rtc):&#160;sapi_rtc.c']]],
+  ['rtcread',['rtcRead',['../sapi__rtc_8h.html#a7b6e6f1d74053531d6ddba88a7459579',1,'rtcRead(rtc_t *rtc):&#160;sapi_rtc.c'],['../sapi__rtc_8c.html#a7b6e6f1d74053531d6ddba88a7459579',1,'rtcRead(rtc_t *rtc):&#160;sapi_rtc.c']]],
+  ['rtcwrite',['rtcWrite',['../sapi__rtc_8h.html#a6328df3e073e0da8a3c0c918a288c17c',1,'rtcWrite(rtc_t *rtc):&#160;sapi_rtc.c'],['../sapi__rtc_8c.html#a6328df3e073e0da8a3c0c918a288c17c',1,'rtcWrite(rtc_t *rtc):&#160;sapi_rtc.c']]],
+  ['running',['running',['../structdelay__t.html#a51adcd9342dc17747393922120c285e4',1,'delay_t']]]
+];

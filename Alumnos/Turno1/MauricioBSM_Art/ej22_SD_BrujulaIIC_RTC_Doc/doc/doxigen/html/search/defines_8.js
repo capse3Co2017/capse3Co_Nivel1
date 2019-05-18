@@ -1,0 +1,21 @@
+var searchData=
+[
+  ['high',['HIGH',['../sapi__datatypes_8h.html#a5bb885982ff66a2e0a0a45a8ee9c35e2',1,'sapi_datatypes.h']]],
+  ['hmc5883l_5fadd',['HMC5883L_ADD',['../sapi__hmc5883l_8h.html#ab7cbf440a1cd2e21e93addfe33bc6568',1,'sapi_hmc5883l.h']]],
+  ['hmc5883l_5freg_5fconfig_5fa',['HMC5883L_REG_CONFIG_A',['../sapi__hmc5883l_8h.html#a00e8dc5f49fddd11b6105bacd5b3595a',1,'sapi_hmc5883l.h']]],
+  ['hmc5883l_5freg_5fconfig_5fb',['HMC5883L_REG_CONFIG_B',['../sapi__hmc5883l_8h.html#aca6b8542ea0c3e4a40af6367505b4370',1,'sapi_hmc5883l.h']]],
+  ['hmc5883l_5freg_5fid_5freg_5fa',['HMC5883L_REG_ID_REG_A',['../sapi__hmc5883l_8h.html#aaf7fb1ec7a096806c5357eeafedd6e3b',1,'sapi_hmc5883l.h']]],
+  ['hmc5883l_5freg_5fid_5freg_5fb',['HMC5883L_REG_ID_REG_B',['../sapi__hmc5883l_8h.html#aa8440f2a23975985217cb1402090ea66',1,'sapi_hmc5883l.h']]],
+  ['hmc5883l_5freg_5fid_5freg_5fc',['HMC5883L_REG_ID_REG_C',['../sapi__hmc5883l_8h.html#ad2970d51eeb3c80d4387178ace8a1899',1,'sapi_hmc5883l.h']]],
+  ['hmc5883l_5freg_5fmode',['HMC5883L_REG_MODE',['../sapi__hmc5883l_8h.html#aea03b03a7eaf2aa0f7c28f1fd688993f',1,'sapi_hmc5883l.h']]],
+  ['hmc5883l_5freg_5fstatus',['HMC5883L_REG_STATUS',['../sapi__hmc5883l_8h.html#a1fb3ec04979b9637e2bbc6dff001e13e',1,'sapi_hmc5883l.h']]],
+  ['hmc5883l_5freg_5fx_5flsb',['HMC5883L_REG_X_LSB',['../sapi__hmc5883l_8h.html#a5ebb9a9faba0127e1aac65b0986bc882',1,'sapi_hmc5883l.h']]],
+  ['hmc5883l_5freg_5fx_5fmsb',['HMC5883L_REG_X_MSB',['../sapi__hmc5883l_8h.html#a5481106403c7cd5477a830b315e99c6c',1,'sapi_hmc5883l.h']]],
+  ['hmc5883l_5freg_5fy_5flsb',['HMC5883L_REG_Y_LSB',['../sapi__hmc5883l_8h.html#ae897929277a9ad680808fc760a43fb67',1,'sapi_hmc5883l.h']]],
+  ['hmc5883l_5freg_5fy_5fmsb',['HMC5883L_REG_Y_MSB',['../sapi__hmc5883l_8h.html#add91d834c159ee796659ed08b2d215fb',1,'sapi_hmc5883l.h']]],
+  ['hmc5883l_5freg_5fz_5flsb',['HMC5883L_REG_Z_LSB',['../sapi__hmc5883l_8h.html#a10f7ffc8bf1d9e0f38d5439213790c38',1,'sapi_hmc5883l.h']]],
+  ['hmc5883l_5freg_5fz_5fmsb',['HMC5883L_REG_Z_MSB',['../sapi__hmc5883l_8h.html#a4371d76ca11ca7d01f115d1383f9eb92',1,'sapi_hmc5883l.h']]],
+  ['hmc5883l_5fvalue_5fid_5freg_5fa',['HMC5883L_VALUE_ID_REG_A',['../sapi__hmc5883l_8h.html#a5694841a9a985e235007921754ada531',1,'sapi_hmc5883l.h']]],
+  ['hmc5883l_5fvalue_5fid_5freg_5fb',['HMC5883L_VALUE_ID_REG_B',['../sapi__hmc5883l_8h.html#aeef84d97c1303526e2b016f96f783a28',1,'sapi_hmc5883l.h']]],
+  ['hmc5883l_5fvalue_5fid_5freg_5fc',['HMC5883L_VALUE_ID_REG_C',['../sapi__hmc5883l_8h.html#adc4fb4ca32daa9515df85805b22727e0',1,'sapi_hmc5883l.h']]]
+];
